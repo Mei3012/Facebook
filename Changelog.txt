@@ -1,5 +1,12 @@
 • 477.0.0.56.80 (454415777) v2
-
+  - Thêm các nút, menu cài đặt
+  - Xoá các bài viết "Được tài trợ" ở Watch, Reels
+  - Tải video riêng tư, bình luận .. (Có thể cần đăng nhập lại)
+  - Thêm ChatAI trong menu khi nhấn giữ văn bản
 
 • 477.0.0.56.80 (454415777)
-  Đây là phiên bản mod cơ bản đầu tiên
+  - Xoá các bài viết "Được tài trợ, Threads" chỉ ở trang chủ
+  - Tải video
+  - Menu tùy chỉnh khi nhấn giữ văn bản
+  - Mở Messenger trong Facebook
+  - Kích thước hiển thị bằng 90%
