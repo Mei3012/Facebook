@@ -1,6 +1,6 @@
 {
   "mod_version": 2,
-  "isOpenShope": false,
+  "isOpenShope": true,
   "url_download": "https://github.com/Mei3012/Facebook/blob/main/init.json",
   "crash": false
 }
