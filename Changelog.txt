@@ -1,3 +1,6 @@
+• 477.0.0.56.80 (454415777) v3
+  - Sửa lỗi một số thiết bị không hiện nút menu
+
 • 477.0.0.56.80 (454415777) v2
   - Xoá các bài viết "Được tài trợ" ở Watch, Reels
   - Tải video riêng tư, bình luận .. (Có thể cần đăng nhập lại)
@@ -7,7 +10,6 @@
   - Thêm tùy chỉnh màu nền
   - Thêm tùy chỉnh phông chữ
   
-    
 • 477.0.0.56.80 (454415777)
   - Xoá các bài viết "Được tài trợ, Threads" chỉ ở trang chủ
   - Tải video
