@@ -1,3 +1,20 @@
+• 470.0.0.61.82 (453212607) v1
+  - Tối ưu khả năng gây ra các vấn đề tự thoát
+  - Thêm tùy chỉnh trong cài đặt
+  - Thay đổi chữ ký của amd+ (Cần gỡ cài đặt trước khi cài mới)
+  - Cải thiện tính ổn định và mượt mà khi lướt NewFeeds
+  - Xoá quảng cáo được tối ưu (Không phải 100%)
+  - Sửa lỗi màu của các nút cài đặt ở trang chủ
+  - Sửa lỗi xem video trong bình luận bị thoát
+  - Loại bỏ tính năng mở Messenger trong Facebook
+  - Download video đang gặp sự số (Sẽ sửa sau)
+  - và một số thay đổi khác (Sửa lắm kể đến đây thôi)
+  - ...
+  
+  - Tại sao không phải phiên bản mới nhất.
+    Theo tôi thử nghiệm thì v480+ sẽ cho ra tab Watch mới giống Reels rất xấu và mất nút Reels ở phần 'Lối tắt'.
+    Không phải bản nào ổn định cũng ok. Tôi đã mod và thử nghiệm trên một số phiên bản ổn định như vẫn có một sốt lỗi cơ bản là lag vl 🙂.
+
 • 477.0.0.56.80 (454415777) v3
   - Sửa lỗi một số thiết bị không hiện nút menu
 
