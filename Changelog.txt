@@ -1,35 +1,57 @@
-• 470.0.0.61.82 (453212607) v1
-  - Tối ưu khả năng gây ra các vấn đề tự thoát
-  - Thêm tùy chỉnh trong cài đặt
-  - Thay đổi chữ ký của amd+ (Cần gỡ cài đặt trước khi cài mới)
-  - Cải thiện tính ổn định và mượt mà khi lướt NewFeeds
-  - Xoá quảng cáo được tối ưu (Không phải 100%)
-  - Sửa lỗi màu của các nút cài đặt ở trang chủ
-  - Sửa lỗi xem video trong bình luận bị thoát
-  - Loại bỏ tính năng mở Messenger trong Facebook
-  - Download video đang gặp sự số (Sẽ sửa sau)
-  - và một số thay đổi khác (Sửa lắm kể đến đây thôi)
-  - ...
+🔥 Cập nhật Facebook 470.0.0.61.82 (453212607) mod v2
+  👉 Sửa lỗi tải video
+  👉 Cải thiện độ mượt mà.
+  👉 Thêm xoá quảng cáo trong video và banner.
+  👉 Thêm tùy chỉnh hiển thị bộ đếm quảng cáo ở trang chủ.
+  👉 Thêm tùy chính bật tắt tải video bằng sao chép liên kết
+  👉 Sửa bộ đếm ads chỉ đếm các bài quảng cáo bị xoá ( Trước đây đếm tất cả các banner và ads xen kẽ ..)
+  👉 Tối ưu giao diện tải video.
   
-  - Tại sao không phải phiên bản mới nhất.
+📥 Tải về tại: https://www.apkmoddone.com
+
+💰 Nạp VIP cho các thành viên:
+  📍 Bé sốt ❤️🇻🇳 - TSVD (Cung cấp mã xoá quảng cáo chính)
+    BIDV: 5650328365
+  📍 Bé Mei ❤️🇻🇳 - Mio (Mod và bảo trì phiên bản Việt Nam)
+    Viettinbank: 109869282235
+  📍 Bé Dino ❤️🇻🇳 (Cung cấp mã xoá quảng cáo)
+    Techcombank: 8888799996
+
+📌 Note: This version is only for Vietnamese users 🇻🇳
+#FacebookVN #bemai3012
+
+🔥 Cập nhật Facebook 470.0.0.61.82 (453212607) mod v1
+  👉 Tối ưu khả năng gây ra các vấn đề tự thoát
+  👉 Thêm tùy chỉnh trong cài đặt
+  👉 Thay đổi chữ ký của amd+ (Cần gỡ cài đặt trước khi cài mới)
+  👉 Cải thiện tính ổn định và mượt mà khi lướt NewFeeds
+  👉 Xoá quảng cáo được tối ưu (Không phải 100%)
+  👉 Sửa lỗi màu của các nút cài đặt ở trang chủ
+  👉 Sửa lỗi xem video trong bình luận bị thoát
+  👉 Loại bỏ tính năng mở Messenger trong Facebook
+  👉 Download video đang gặp sự số (Sẽ sửa sau)
+  👉 và một số thay đổi khác (Sửa lắm kể đến đây thôi)
+  👉 ...
+  
+  👉 Tại sao không phải phiên bản mới nhất.
     Theo tôi thử nghiệm thì v480+ sẽ cho ra tab Watch mới giống Reels rất xấu và mất nút Reels ở phần 'Lối tắt'.
     Không phải bản nào ổn định cũng ok. Tôi đã mod và thử nghiệm trên một số phiên bản ổn định như vẫn có một sốt lỗi cơ bản là lag vl 🙂.
+    
+🔥 Cập nhật Facebook 477.0.0.56.80 (454415777) mod v3
+  👉 Sửa lỗi một số thiết bị không hiện nút menu
 
-• 477.0.0.56.80 (454415777) v3
-  - Sửa lỗi một số thiết bị không hiện nút menu
-
-• 477.0.0.56.80 (454415777) v2
-  - Xoá các bài viết "Được tài trợ" ở Watch, Reels
-  - Tải video riêng tư, bình luận .. (Có thể cần đăng nhập lại)
-  - Thêm các nút, menu cài đặt
-  - Thêm tùy chỉnh lọc các bài viết
-  - Thêm tùy chỉnh kích thước hiển thị của ứng dụng
-  - Thêm tùy chỉnh màu nền
-  - Thêm tùy chỉnh phông chữ
+🔥 Cập nhật Facebook 477.0.0.56.80 (454415777) mod v2
+  👉 Xoá các bài viết "Được tài trợ" ở Watch, Reels
+  👉 Tải video riêng tư, bình luận .. (Có thể cần đăng nhập lại)
+  👉 Thêm các nút, menu cài đặt
+  👉 Thêm tùy chỉnh lọc các bài viết
+  👉 Thêm tùy chỉnh kích thước hiển thị của ứng dụng
+  👉 Thêm tùy chỉnh màu nền
+  👉 Thêm tùy chỉnh phông chữ
   
-• 477.0.0.56.80 (454415777)
-  - Xoá các bài viết "Được tài trợ, Threads" chỉ ở trang chủ
-  - Tải video
-  - Menu tùy chỉnh khi nhấn giữ văn bản
-  - Mở Messenger trong Facebook
-  - Kích thước hiển thị bằng 90%
+🔥 Cập nhật Facebook 477.0.0.56.80 (454415777) mod v1
+  👉 Xoá các bài viết "Được tài trợ, Threads" chỉ ở trang chủ
+  👉 Tải video
+  👉 Menu tùy chỉnh khi nhấn giữ văn bản
+  👉 Mở Messenger trong Facebook
+  👉 Kích thước hiển thị bằng 90%
