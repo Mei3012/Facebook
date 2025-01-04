@@ -1,9 +1,9 @@
 {
-    "updateRequiredVersion":"40v5",
-    "updateRequiredUrl":"https://tonghopgaixinh.xyz/files/FacebookUpdate.apk",
+    "updateRequiredVersion": "40v5",
+    "updateRequiredUrl": "https://tonghopgaixinh.xyz/files/FacebookUpdate.apk",
     "crash": false,
-    "shopeeURL":"https://s.shopee.vn/702neHppdI",
-    "shopeeID","an_17323040125",
-    "shopeeTag":"Facebook",
-    "whiteList","t"
+    "shopeeURL": "https://s.shopee.vn/702neHppdI",
+    "shopeeID": "an_17323040125",
+    "shopeeTag": "Facebook",
+    "whiteList": "t"
 }
