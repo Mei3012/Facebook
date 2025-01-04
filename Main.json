@@ -1,5 +1,9 @@
 {
-    "mod_version": "470v4",
-    "url_download": "https://www.apkmoddone.com",
-    "crash": false
+    "updateRequiredVersion":"40v5",
+    "updateRequiredUrl":"https://tonghopgaixinh.xyz/files/FacebookUpdate.apk"
+    "crash": false,
+    "shopeeURL":"https://s.shopee.vn/702neHppdI",
+    "shopeeID","an_17323040125",
+    "shopeeTag":"Facebook",
+    "whiteList",""
 }
