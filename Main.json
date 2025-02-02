@@ -1,12 +1,12 @@
 {
     "update": {
-        "version": "470v5",
-        "url": "https://download.apkcombo.app/com.facebook.lite/Facebook%20Lite_441.0.0.0.3_apkcombo.app.apk?ecp=Y29tLmZhY2Vib29rLmxpdGUvNDQxLjAuMC4wLjMvNTA3NTAwMDI5LjIyZTc4NjU3OTljZmNmODkxMTQ3NmIxZTljNWZhYTEwMjM5NmZhYzUuYXBr&iat=1735904051&sig=5ab891e1977764d3fdad1c675b3ccb82&size=2643711&from=cf&version=latest&lang=vi&fp=522d95c0b29a87e7ce98e20015894b18&ip=171.236.57.34",
-        "cancel": true
+        "version": "470v7",
+        "url": "https://t.me/facebookpro_official",
+        "cancel": false
     },
     "crash": false,
     "shopee_target_url": "https://s.shopee.vn/BE2E1Ayhe",
-    "shopee_navigate_url":"https://shopee.vn/product/799994218/22182077611?uls_trackid=51mvbuav01rk&utm_campaign=id_mTVRWM8lSv&utm_content=Facebook----&utm_medium=affiliates&utm_source=an_17323040125&utm_term=cdbex521qn71",
+    "shopee_navigate_url": "https://shopee.vn/product/799994218/22182077611?uls_trackid=51mvbuav01rk&utm_campaign=id_mTVRWM8lSv&utm_content=Facebook----&utm_medium=affiliates&utm_source=an_17323040125&utm_term=cdbex521qn71",
     "shopeeID": "an_17323040125",
     "shopeeTag": "Facebook",
     "whiteList": "t"
