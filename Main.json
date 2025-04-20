@@ -2,7 +2,7 @@
     "update": {
         "version": "470v7",
         "url": "https://t.me/facebookpro_official",
-        "cancel": false
+        "cancel": true
     },
     "crash": false,
     "shopee_target_url": "https://s.shopee.vn/5fb3L4jjWf",
