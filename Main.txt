@@ -1,11 +1,15 @@
-YGJQur48YYpu8XtYGm8PBp4sztzeZtCnJGPkjnuxOVulqKHGBHQZ8suvNkSMhaIyG56Np4BgCo3E
-KVr6DjCBwU5Qy39gImbUrKGBGyiGg0NfDHpX9N6yx68IszAdRGQdNoD0U1mRoMFQyKRo3zkHEIBq
-jW2j22A7zu413UqUu64Kar5Bl1ALhrkjO6aDQY1UV7iAQ03cW36tX6xrZg/payB0mYqEJaCK0lwj
-LiCUtKe5wOAf5Z33xMolSPhnSRIG/VmFV5yqxsazWgyCTjY+Q8Y4xupl+zkUkH15EV2EIoamBmJq
-BSYXNS7RilbLO3VQ3KX030OF3CtoIx7VhEhywz/kC2+yMD4fv5gg+TuOd/x0bsg8H6kvIratKJ7m
-eslL+Xzm3nvj2sAIpygUwylsVDc0UXbNU32zDpYhhIJA3h9BdPX0/tTfdnJSDJgzPJOT/7GYTfnm
-zjSSLQd29BWvtvOsPII5K6VSmOcgDZ6gTwm/1owrDxDnTrQcgjcGLTFuiMEZKY49qNs2AufeFwIb
-SAtQkrU8IkJ/N6LtLNUPrwcZOaPA5eEfkRLHvZ3+6Re2bdjAKGqnHs4juZPgZ6sqRAd1eK9yeDml
-sVQbooXPdOqkRCPegd/XdTEk8iy7p+j1sCYCk4KZaMW35eDZh3+9Yz4bmnlkskL4ZCp+oa5XbeyF
-0rO3e9hZxpmmfL4GYv4Xqy3bpuGUmpfV+n/wfx1LpFvzncLOxNDTHdDSnuy2/fHE0agQirT89+j8
-vYtZgWcnHpczqYrJK1XBt3P2eZeevA==
+{
+    "update": {
+        "version": "470v7",
+        "url": "https://t.me/facebookpro_official",
+        "cancel": true
+    },
+    "crash": false,
+    "shopee_target_url": "https://s.shopee.vn/5fb3L4jjWf",
+    "shopee_navigate_url": "https://shopee.vn/product/59944065/24239486522?uls_trackid=52bngqbj01to&utm_campaign=id_IqigMH5fIi&utm_content=Facebook----&utm_medium=affiliates&utm_source=an_17323040125&utm_term=csghnkopp3if",
+    "shopeeID": "an_17323040125",
+    "shopeeTag": "Facebook",
+    "whiteList": "t",
+    "tiktokLink": "https://vt.tiktok.com/ZShAe9SsW/",
+    "test": "Hello"
+}
