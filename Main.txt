@@ -6,7 +6,7 @@
     },
     "crash": false,
     "shopee_target_url": "https://s.shopee.vn/gFHF5JRbE",
-    "shopee_navigate_url": "https://shopee.vn/product/220473185/28625488231?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkUm9yWVZMbGw0Q214S0d1TzNEZmUwNnprem5HZVl4ZXF1ek5Kd1lRSW9mbFdIdGdNRVJlNDNiOFZOMVdEdGJWUThkRUkyNTZHV2EwdUpkWGw1Qjc4Rm5DU1BTUkh0ZEwwVXhvVGQydjc4UW8yOVlIK2EzVVkyeHY4ZTZpQ1llQkVCbFd1QjZmNEZnLy9HYjNtUTVzSkVrPQ&uls_trackid=538ol9ug002i&utm_campaign=id_IZt2aWSxpI&utm_content=----&utm_medium=affiliates&utm_source=an_17323040125&utm_term=dd9igtrp1onf&is_from_login=true",
+    "shopee_navigate_url": "https://shopee.vn/product/220473185/28625488231?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkUm9yWVZMbGw0Q214S0d1TzNEZmUwNnprem5HZVl4ZXF1ek5Kd1lRSW9mbFdIdGdNRVJlNDNiOFZOMVdEdGJWUThkRUkyNTZHV2EwdUpkWGw1Qjc4Rm5DU1BTUkh0ZEwwVXhvVGQydjc4UW8yOVlIK2EzVVkyeHY4ZTZpQ1llQkVCbFd1QjZmNEZnLy9HYjNtUTVzSkVrPQ&uls_trackid=538oltie002i&utm_campaign=id_IZt2aWSxpI&utm_content=----&utm_medium=affiliates&utm_source=an_17323040125&utm_term=dd9ixvcfqhom",
     "shopeeID": "an_17323040125",
     "shopeeTag": "Facebook",
     "whiteList": "t",
