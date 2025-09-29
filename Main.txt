@@ -1,6 +1,6 @@
 {
     "update": {
-        "version": "470v7",
+        "version": "v525v6",
         "url": "https://t.me/facebookpro_official",
         "cancel": true
     },
