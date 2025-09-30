@@ -10,5 +10,5 @@
     "shopeeID": "an_17323040125",
     "shopeeTag": "Facebook",
     "buffUrl":"https://apptanglike.com/register?ref=26035",
-    "key":"IEHD2"
+    "key":"M2J4F"
 }
