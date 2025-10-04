@@ -10,5 +10,6 @@
     "shopeeID": "an_17323040125",
     "shopeeTag": "Facebook",
     "buffUrl": "https://apptanglike.com/register?ref=26035",
-    "key": "TRSST"
+    "key": "3KE9A",
+    "checkPass": false
 }
