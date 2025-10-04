@@ -1,7 +1,7 @@
 {
     "update": {
-        "version": "525v7",
-        "url": "https://t.me/facebookpro_official/284",
+        "version": "525v7.0.1",
+        "url": "https://t.me/facebookpro_official/287",
         "cancel": false
     },
     "crash": false,
@@ -10,6 +10,6 @@
     "shopeeID": "an_17323040125",
     "shopeeTag": "Facebook",
     "buffUrl": "https://apptanglike.com/register?ref=26035",
-    "key": "3KE9A",
+    "key": "1CFE2",
     "checkPass": false
 }
