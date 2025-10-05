@@ -5,11 +5,11 @@
         "cancel": false
     },
     "crash": false,
-    "shopee_target_url": "https://s.shopee.vn/gH82r18xf",
-    "shopee_navigate_url": "https://shopee.vn/product/220473185/28625488231?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkUm9yWVZMbGw0Q214S0d1TzNEZmUwNnprem5HZVl4ZXF1ek5Kd1lRSW9mbFdIdGdNRVJlNDNiOFZOMVdEdGJWUThkRUkyNTZHV2EwdUpkWGw1Qjc4Rm5SSFQwWGZPQkhTcnhtc3l2YytpeDhxTWF2bEMrL3pHeDdaWFZ5K0lRSUVpSWdxd1lxU2pOTGQwTnVlZ0tFZTZ3PQ&uls_trackid=53r9nag700s5&utm_campaign=id_JBleeY7Qly&utm_content=Facebook----&utm_medium=affiliates&utm_source=an_17323040125&utm_term=dqw4ekqzbts1",
+    "shopee_target_url": "https://s.shopee.vn/4LAVQqayYt",
+    "shopee_navigate_url": "https://shopee.vn/product/1016604648/23552060269?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkYzc0c3JVSWR5NEtpWldXK1BqTUNtYXBnMFlyVzBjL1hkdTJzbFBaczJZZHlSOHNqeitlVVljZmhERCtaTGZqTHh3eXRmY09BcjhIaHpQUGlYVTVPN0dtTC85d3JENHNuOWNVRU4yMTFrVkdWUE5idGgva084U3FiV1hPNVFlTTNOc2dYcVExaFBoRGZ5ZnBFSzJTQXIwcTFwS093OFdUTnVSKzN6Q3V4WnRV&uls_trackid=53s3l9u100r5&utm_campaign=id_xHRRJAAMKw&utm_content=Facebook----&utm_medium=affiliates&utm_source=an_17323040125&utm_term=drfw6wm86kt7",
     "shopeeID": "an_17323040125",
     "shopeeTag": "Facebook",
     "buffUrl": "https://apptanglike.com/register?ref=26035",
-    "key": "1CFE2",
+    "key": "3O7BE",
     "checkPass": false
 }
