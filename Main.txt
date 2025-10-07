@@ -1,7 +1,7 @@
 {
     "update": {
         "version": "1.0.0",
-        "url": "https://t.me/facebookpro_official/291",
+        "url": "https://t.me/facebookpro_official/298",
         "cancel": false
     },
     "crash": false,
